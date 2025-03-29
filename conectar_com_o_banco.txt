@@ -1,0 +1,11 @@
+Como conectar com o banco?
+
+Baixar o ambiente virtual
+
+python -m venv venv
+
+instalar arquivos do requirements.txt com o -> pip install -r requirements.txt
+
+Criar um arquivo .env na raiz do projeto e modificar as configurações com estão no .env-example
+
+Agora só rodar python main.py e verificar a se conseguiu a conexão com o banco de dados
